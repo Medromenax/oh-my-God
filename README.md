@@ -5,7 +5,7 @@ oh-my-God is a catholic based theme for oh-my-zsh. Don't know how to install oh-
 
 oh-my-God displays your current time, your username and the current directory. In git directories, it displays your current branch and some symbols that represent your branch status:
 
-<!-- Imagens sobre o terminal -->
+![terminal image](img/clean.png)
 
 - <span style="color: red;"><b>!</b></span> = Unstaged changes
 - <span style="color: aqua;">⋆</span> = Everything is ok
@@ -15,7 +15,7 @@ oh-my-God displays your current time, your username and the current directory. I
 
 Furthermore, at every friday, it will display a "No meat today" warning
 
-<!-- Imagem sobre o aviso -->
+![terminal image](img/full.png)
 
 # How to install
 
